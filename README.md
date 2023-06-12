@@ -10,6 +10,7 @@
 - [Task 3](#Task-3)
 - [Impact and Results](#Impact-and-Results)
 - [Skills Utilized](#Skills-Utilized)
+- [Dashboard View](#Dashboard-View)
 
 ## Overview
 
@@ -41,13 +42,17 @@ The KPMG Data Analytics Consulting Virtual Program provided intensive training a
 
 ## Task 3
 
-### Impact and Results
-
 - Developed a comprehensive dashboard using Power BI to present the data summary and results of the analysis to the client.
 - Included key metrics, customer segmentation insights, and recommendations in the dashboard for the client's understanding.
 - Visualized the customer data, highlighting important characteristics and attributes that indicate potential target customers from the new 1000-customer list for Sprocket Central Pty Ltd.
+
+### Impact and Results
+
+- Successfully developed an interactive and visually appealing dashboard for presenting data summary and analysis results to the client.
+- Provided the client with a clear understanding of the target customers for Sprocket Central Pty Ltd based on the analysis of the new 1000-customer list.
+- The dashboard was informative and visually engaging, aiding in data-driven decision-making.
  
- ### Skills Utilized
+### Skills Utilized
 
  - Data analysis
  - Data visualization
@@ -58,3 +63,7 @@ The KPMG Data Analytics Consulting Virtual Program provided intensive training a
  - PowerPoint presentation
  - Customer segmentation
  - Data interpretation
+ 
+ ### Dashboard View
+
+![](./KPMG-Dashboard.png)
