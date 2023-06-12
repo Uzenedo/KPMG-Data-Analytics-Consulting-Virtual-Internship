@@ -5,9 +5,9 @@
 ## Table of contents
 
 - [Overview](#Overview)
-- [Task 1](#Task1)
-- [Task 2](#Task2)
-- [Task 3](#Task3)
+- [Task 1](#Task-1)
+- [Task 2](#Task-2)
+- [Task 3](#Task-3)
 - [Impact and Results](#Impact-and-Results)
 - [Skills Utilized](#Skills-Utilized)
 
