@@ -11,6 +11,7 @@
 - [Impact and Results](#Impact-and-Results)
 - [Skills Utilized](#Skills-Utilized)
 - [Dashboard View](#Dashboard-View)
+- [Certificate View](#Certificate-View)
 
 ## Overview
 
@@ -67,3 +68,8 @@ The KPMG Data Analytics Consulting Virtual Program provided intensive training a
  ### Dashboard View
 
 ![](./KPMG-Dashboard.png)
+
+### Certificate View
+
+![](./KPMG-Certificate.png)
+
